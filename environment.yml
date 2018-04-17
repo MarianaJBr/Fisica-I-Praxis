@@ -1,0 +1,25 @@
+name: physics-101
+channels:
+  - defaults
+dependencies:
+  - click
+  - h5py
+  - ipython
+  - jupyter
+  - matplotlib
+  - mpmath
+  - notebook
+  - numpy
+  - pip
+  - python=3.6
+  - pytz
+  - pyyaml
+  - scipy
+  - setuptools
+  - pip:
+    - jupyterthemes==0.19.1
+    - lesscpy==0.13.0
+    - ply==3.11
+    - python-dotenv==0.8.2
+    - tzlocal==1.5.1
+
