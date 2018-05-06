@@ -1,3 +1,3 @@
-# Physics-101
+# Fisica I Praxis
 
-Recursos para aprender Física elemental.
+Recursos computacionales para aprender Física elemental.
